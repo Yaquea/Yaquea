@@ -1,4 +1,3 @@
-# About Me:
 ## Bienvenido a mi perfil de GitHub
 
 ¡Hola! Soy Gerardo Sandoval, un entusiasta de la programación de 18 años de edad, dedicado a aprender y crecer en el mundo del desarrollo de software.
