@@ -8,10 +8,10 @@ Me divierte la programación y el desarrollo de software. Actualmente, estoy enf
 
 ¡Gracias por visitar mi perfil! 
 
-## Redes sociales:
+### Redes sociales:
 [Instagram](https://instagram.com/yaquea_) 
 
-# Tecnologias:
+### Tecnologias:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 </div>
 
