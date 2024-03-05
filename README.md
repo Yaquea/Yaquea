@@ -14,9 +14,9 @@ Me divierte la programación y el desarrollo de software. Actualmente, estoy enf
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yaquea&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yaquea&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaquea&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# <center>GitHub Stats:</center>
+<center>![](https://github-readme-stats.vercel.app/api?username=Yaquea&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/></center>
+<center>![](https://github-readme-streak-stats.herokuapp.com/?user=Yaquea&theme=bear&hide_border=false)<br/></center>
+<center>![](https://github-readme-stats.vercel.app/api/top-langs/?</center><center>username=Yaquea&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
 
 [![](https://visitcount.itsvg.in/api?id=Yaquea&icon=1&color=11)](https://visitcount.itsvg.in)
