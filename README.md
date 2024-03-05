@@ -1,6 +1,5 @@
-<div>
 ## Bienvenido a mi perfil de GitHub
-
+<div>
 ¡Hola! Soy Gerardo Sandoval, un estudiante de programación de 18 años de edad, dedicado a aprender y crecer en el mundo del desarrollo de software.
 
 ### Sobre mí
@@ -30,8 +29,6 @@ Me divierte la programación y el desarrollo de software. Actualmente, estoy enf
 </a>
 </div>
 
-<div align="center">
-  <!-- Visit Counter -->
   [![](https://visitcount.itsvg.in/api?id=Yaquea&icon=1&color=11)](https://visitcount.itsvg.in)
-</div>
+
  
