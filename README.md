@@ -1,6 +1,6 @@
 ## Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Gerardo Sandoval, un entusiasta de la programación de 18 años de edad, dedicado a aprender y crecer en el mundo del desarrollo de software.
+¡Hola! Soy Gerardo Sandoval, un estudiante de programación de 18 años de edad, dedicado a aprender y crecer en el mundo del desarrollo de software.
 
 ### Sobre mí
 
@@ -19,8 +19,4 @@ Me divierte la programación y el desarrollo de software. Actualmente, estoy enf
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yaquea&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaquea&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yaquea&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Yaquea&icon=1&color=11)](https://visitcount.itsvg.in)
