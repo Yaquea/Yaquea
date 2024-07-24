@@ -1,21 +1,18 @@
-## Bienvenido a mi perfil de GitHub
+# Bienvenido a mi perfil de GitHub
 <div>
-¡Hola! Soy Gerardo Sandoval, un estudiante de programación de 18 años de edad, dedicado a aprender y crecer en el mundo del desarrollo de software.
+__Hola soy Yaquea, Un estudiante de ingenieria de software.__
 
-### Sobre mí
+## Sobre mí
+Me encanta la programacion, actualmente estoy estudiando tecnologias como Django, lenguaje sql, c++, css, html. Estudio estas tecnolgias en parte por la universidad y porque estoy estudiando de forma mas autodidacta el desarrollo de sitios webs. Tambien he estudiado bases de creaciones de videojuegos. Gracias por leer mi perfil espero que mis trabajos sean de tu interes. 
 
-Me divierte la programación y el desarrollo de software. Actualmente, estoy enfocado en aprender Python con el framework Django, así como explorar los conceptos de C++. Me encanta el proceso de aprendizaje continuo y la resolución de problemas a través del desarrollo de software. Estoy comprometido con mejorar mis habilidades técnicas y contribuir a la comunidad de código abierto.
+## Redes sociales:
+== [Instagram](https://instagram.com/yaquea_) ==
 
-¡Gracias por visitar mi perfil! 
-
-### Redes sociales:
-[Instagram](https://instagram.com/yaquea_) 
-
-### Tecnologias:
+## Tecnologias:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 </div>
 
-##  My github:
+#  My github:
 
 <div align="center">
 <!-- GitHub Streak Stats -->
@@ -24,7 +21,7 @@ Me divierte la programación y el desarrollo de software. Actualmente, estoy enf
 </a><br/>
 </div>
 
-## Top languages:
+# Top languages:
 
 <div align="center">
 <!-- Top Languages -->
