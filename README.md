@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub
 <div>
-__Hola soy Yaquea, Un estudiante de ingenieria de software.__
+Hola soy Yaquea, Un estudiante de ingenieria de software.
 
 ## Sobre mí
 Me encanta la programacion, actualmente estoy estudiando tecnologias como Django, lenguaje sql, c++, css, html. Estudio estas tecnolgias en parte por la universidad y porque estoy estudiando de forma mas autodidacta el desarrollo de sitios webs. Tambien he estudiado bases de creaciones de videojuegos. Gracias por leer mi perfil espero que mis trabajos sean de tu interes. 
