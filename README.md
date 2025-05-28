@@ -3,7 +3,7 @@
 Hola soy Yaquea, Un estudiante de ingenieria de software.
 
 ## Sobre mí
-Me encanta la programacion, actualmente estoy estudiando tecnologias como Django,sql, c++, css, html. Estudio estas tecnolgias en parte por la universidad y porque estoy estudiando de forma mas autodidacta el desarrollo de sitios webs. Gracias por leer mi perfil espero que mis trabajos sean de tu interes. 
+Me encanta la programacion, actualmente estoy estudiando tecnologias como Django,sql. Gracias por leer mi perfil espero que mis trabajos sean de tu interes. 
 
 ## Redes sociales:
 == [Instagram](https://instagram.com/yaquea_) ==
